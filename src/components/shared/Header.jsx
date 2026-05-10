@@ -14,7 +14,7 @@ const Header = () => {
         className='mx-auto'
       >
       </Image>
-      <p>Journalism Without Fear or Favour</p>
+      <p>Journalism Without Fear or Favour????? GitHub</p>
       <p>{format(new Date(), "EEEE, MMM dd, yyyy")}</p>
     </div>
   );
